@@ -6,6 +6,7 @@ redirect_from:
  - /compose/overview/
 ---
 
+
 >**Looking for Compose file reference?** [Find the latest version here](compose-file/index.md).
 
 Compose is a tool for defining and running multi-container Docker applications.
